@@ -1,0 +1,567 @@
+Meal,Grams,Calories
+Artichoke,128,60
+Arugula,2,1
+Asparagus,12,2
+Aubergine,458,115
+Beetroot,82,35
+Bell Pepper,73,15
+Black Olives,2.7,2
+Broccoli,608,207
+Brussels Sprouts,19,8
+Cabbage,908,227
+Capsicum,45,12
+Carrot,61,25
+Cauliflower,13,3
+Celery,40,6
+Chard,48,9
+Cherry Tomato,20,20
+Chicory,53,38
+Chinese Cabbage,840,134
+Chives,3,1
+Collard Greens,36,12
+Corn,154,562
+Courgette,196,33
+Creamed Spinach,200,148
+Cucumber,410,66
+Eggplant,458,115
+Endive,513,87
+Fennel,234,73
+Garlic,3,4
+Gherkin,65,9
+Gourd,771,108
+Green Beans,110,34
+Green Olives,2.7,2
+Green Onion,15,5
+Horseradish,15,7
+Kale,67,33
+Kohlrabi,400,108
+Kumara,130,112
+Leek,89,54
+Lettuce,600,90
+Mushrooms,5.4,1
+Mustard Greens,56,15
+Nori,2.6,1
+Okra,12,4
+Olives,2.7,2
+Onion,85,34
+Parsnips,170,128
+Peas,98,79
+Pepper,75,20
+Potato,213,164
+Pumpkin,196,51
+Radishes,4.5,1
+Red Cabbage,22,7
+Rutabaga,386,147
+Shallots,25,18
+Spinach,340,78
+Squash,196,88
+Sweet Potato,130,112
+Tomato,111,20
+Turnip Greens,170,34
+Turnips,122,34
+Wasabi,169,184
+Winter Squash,431,147
+Zucchini,196,33
+Acai,28.35,20
+Apple,182,95
+Applesauce,246,167
+Apricot,35,17
+Avocado,200,320
+Banana,125,111
+Blackberries,144,62
+Blood Oranges,140,70
+Blueberries,148,84
+Cantaloupe,69,23
+Cherries,8,4
+Clementine,74,35
+Cranberries,100,46
+Currants,112,63
+Custard Apple,135,136
+Dates,7.1,20
+Figs,50,37
+Fruit salad,249,125
+Grapes,151,104
+Greengage,5,2
+Guava,55,37
+Jackfruit,151,143
+Jujube,28.35,22
+Kiwi,183,112
+Lemon,58,17
+Lime,67,20
+Lychees,10,7
+Mandarin Oranges,88,47
+Mango,336,202
+Minneola,109,70
+Mulberries,140,60
+Nectarine,150,66
+Olives,2.7,2
+Orange,131,62
+Papaya,500,215
+Passion Fruit,18,17
+Peach,150,59
+Pear,178,101
+Persimmon,25,32
+Physalis,5,2
+Pineapple,905,453
+Plantains,179,218
+Plum,66,30
+Pomegranate,282,234
+Quince,92,52
+Raisins,145,434
+Rambutan,9,7
+Raspberries,123,64
+Rhubarb,51,11
+Starfruit,91,28
+Strawberries,152,49
+Tamarind,2,5
+Tangerine,88,47
+Watermelon,286,86
+Baby Back Ribs,139,360
+Bacon and Eggs,214,539
+Baked Beans,260,244
+BBQ Ribs,141,360
+Beef Stew,196,186
+Biryani,275,484
+Black Pudding,40,101
+Black Rice,100,323
+BLT,240,593
+Brown Rice,185,670
+Burrito,200,326
+Butter Chicken,350,490
+California Roll,35,33
+Chicken Caesar Salad,309,392
+Chicken Fried Steak,280,423
+Chicken Marsala,2301,2209
+Chicken Parmesan,227,250
+Chicken Pot Pie,302,673
+Chicken Tikka Masala,241,195
+Chili con Carne,253,266
+Chimichanga,180,418
+Cobb Salad,536,632
+Collard Greens,45,13
+Corn Dog,175,438
+Corned Beef Hash,213,349
+Cottage Pie,376,523
+Dal,92,304
+Deviled Eggs,31,62
+Dim Sum,19,37
+Dosa,435,287
+Enchiladas,192,323
+Fajita,248,290
+Fish and Chips,300,585
+Fried Rice,356,662
+Fried Shrimp,27,75
+Grilled Cheese Sandwich,136,392
+Ham and Cheese Sandwich,146,352
+Hummus,246,435
+Jambalaya,250,250
+Kebab,360,774
+Lasagne,215,284
+Mac and Cheese,189,699
+Macaroni and Cheese,189,699
+Mashed Potatoes,210,174
+Meat Pie,120,290
+Meatloaf,284,721
+Naan,84,260
+Orange Chicken,162,420
+Pad Thai,250,375
+Paella,128,200
+Paratha,80,260
+Pea Soup,253,190
+Peanut Butter Sandwich,49,200
+Peking Duck,178,401
+Philly Cheese Steak,120,300
+Pizza,102,272
+Pork Chop,131,295
+Potato Salad,95,136
+Pulled Pork Sandwich,261,551
+Ramen,85,380
+Ravioli,66,134
+Reuben Sandwich,308,641
+Roast Beef,21,23
+Roast Dinner,121,240
+Samosa,50,107
+Sausage Roll,103,361
+Sausage Rolls,34,101
+Shepherds Pie,227,159
+Shrimp Cocktail,28,130
+Sloppy Joe,142,101
+Sloppy Joes,258,397
+Spaghetti Bolognese,283,374
+Spring Roll,140,350
+Spring Rolls,140,350
+Taco,98,213
+Tandoori Chicken,175,198
+Yorkshire Pudding,15,83
+Amaranth,193,716
+Barley,157,556
+Barley Groats,31,31
+Brown Rice,195,757
+Buckwheat,170,583
+Buckwheat Groats,164,567
+Corn Waffles,40,110
+Cornmeal,122,442
+Cornstarch,128,488
+Couscous,173,650
+Cracker,7,35
+Durum Wheat Semolina,30,119
+Flaxseed,168,897
+Freekeh,160,832
+Gluten,28,104
+Grissini,5,20
+Kamut,186,627
+Millet,128,484
+Millet Flour,140,521
+Millet Gruel,174,80
+Oat Bran,94,231
+Pearl Barley,157,553
+Polenta,150,549
+Prawn Crackers,3,16
+Pretzel Sticks,12,46
+Quinoa,170,626
+Rusk,10,41
+Rye Bran,150,422
+Sago,28,99
+Savoury Biscuits,40,139
+Shortbread,19,95
+Spelt,174,588
+Spelt Bran,160,283
+Spelt Semolina,167,601
+Sunflower Seeds,140,818
+Tortilla,197,467
+Tortilla Chips,32,160
+Wheat Bran,58,125
+Wheat Germ,113,432
+Wheat Gluten,3,10
+Wheat Semolina,167,601
+Wheat Starch,110,386
+Whole Grain Wheat,120,407
+Wholegrain Oat,80,300
+Almond Oil,14,123
+Apricot Kernel Oil,14,124
+Argan Oil,14,125
+Avocado Oil,14,120
+Babassu Oil,14,124
+Canola Oil,14,124
+Coconut Oil,14,120
+Corn Oil,15,120
+Cottonseed Oil,14,123
+Flaxseed Oil,14,124
+Grape Seed Oil,14,124
+Hazelnut Oil,14,124
+Linseed Oil,14,117
+Menhaden Oil,14,128
+Mustard Oil,14,124
+Oat Oil,14,124
+Olive Oil,15,120
+Palm Kernel Oil,14,123
+Palm Oil,14,123
+Peanut Oil,14,120
+Poppy Seed Oil,14,124
+Pumpkin Seed Oil,14,123
+Rice Bran Oil,14,124
+Safflower Oil,14,120
+Salmon Oil,14,128
+Sesame Oil,14,124
+Shea Oil,14,124
+Soy Oil,14,123
+Sunflower Oil,14,124
+Tomato Seed Oil,14,124
+Vegetable Oil,15,120
+Walnut Oil,14,124
+Wheat Germ Oil,14,130
+Alphabet Soup,248,62
+Bean Stew,252,335
+Beef Bouillon,240,7
+Beef Noodle Soup,244,83
+Beef Soup,213,70
+Bouillon,244,39
+Broccoli Cheese Soup,303,264
+Broccoli Soup,237,206
+Cabbage Soup,245,69
+Carrot Ginger Soup,381,95
+Carrot Soup,381,95
+Chicken Bouillon,241,10
+Chicken Broth,244,39
+Chicken Gumbo Soup,244,56
+Chicken Noodle Soup,248,62
+Chicken Stock,244,39
+Chicken Vegetable Soup,248,77
+Chicken with Rice Soup,243,58
+Cream of Asparagus Soup,244,85
+Cream of Broccoli Soup,310,140
+Cream of Celery Soup,248,92
+Cream of Chicken Soup,244,117
+Cream of Mushroom Soup,248,97
+Cream of Onion Soup,244,107
+Cream of Potato Soup,244,73
+Creamy Chicken Noodle Soup,245,56
+French Onion Soup,243,56
+Golden Mushroom Soup,248,161
+Goulash,187,1887
+Instant Ramen,85,371
+Lentil Soup,248,139
+Lobster Bisque Soup,248,248
+Meatball Soup,245,120
+Minestrone,241,82
+Mushroom Soup,244,85
+Noodle Soup,244,83
+Onion Soup,243,56
+Oxtail Soup,244,68
+Pea Soup,253,190
+Potato Soup,240,192
+Pumpkin Soup,245,71
+Ramen,85,371
+Scotch Broth,241,80
+Succotash,192,221
+Thai Soup,245,147
+Tomato Rice Soup,247,116
+Tomato Soup,248,74
+Vegetable Beef Soup,244,76
+Vegetable Broth,235,12
+Vegetable Soup,241,67
+Vegetable Stock,235,12
+Wedding Soup,245,130
+Baskin-Robbins,71,170
+Ben and Jerry's,92,210
+Butter Pecan Ice Cream,113,280
+Carvel,212,449
+Chocolate Chip Ice Cream,72,155
+Chocolate Ice Cream,72,156
+Ciao Bella,220,240
+Coffee Ice Cream,72,170
+Cold Stone Creamery,142,329
+Cookie Dough Ice Cream,65,130
+Crunchie McFlurry,183,318
+Dairy Milk McFlurry,183,340
+Dippin Dots,170,381
+Double Rainbow,72,185
+Drumsticks,141,360
+French Vanilla Ice Cream,72,145
+Friendly's,66,140
+Healthy Choice,64,80
+Hot Fudge Sundae,179,333
+Ice Cream Sandwich,112,265
+Ice Cream Sundae,178,253
+Ice Milk,103,164
+Magnolia,72,166
+Magnum,86,258
+Magnum Almond,86,271
+Magnum Double Caramel,86,305
+Magnum Double Chocolate,86,327
+Magnum Gold,85,290
+Magnum White,86,255
+McFlurry,134,205
+McFlurry Oreo,183,340
+Mini Milk,25,30
+Mint Chocolate Chip Ice Cream,72,172
+Rocky Road Ice Cream,113,290
+Schwan's,72,177
+Smarties McFlurry,202,400
+Snickers Ice Cream,50,180
+Soft Serve,86,191
+Solero,75,75
+Strawberry Ice Cream,72,170
+Strawberry Sundae,178,281
+Sundae,72,155
+Turkey Hill,70,190
+Vanilla Cone,142,230
+Vanilla Ice Cream,72,145
+Cannelloni,56,82
+Capellini,56,198
+Cappelletti,56,92
+Cellophane Noodles,140,491
+Cheese Tortellini,113,329
+Dampfnudel,85,233
+Dumpling Dough,56,55
+Durum Wheat Semolina,56,222
+Egg Noodles,38,146
+Farfalle,56,200
+Fettuccine,56,198
+Fusilli,56,197
+Glass Noodles,56,108
+Lasagne Sheets,21,57
+Linguine,56,200
+Low Carb Pasta,56,158
+Macaroni,114,422
+Manicotti,56,200
+Mostaccioli,56,103
+Orecchiette,56,207
+Orzo,56,200
+Penne,56,197
+Penne Rigate,56,207
+Pierogi,100,200
+Ravioli,56,43
+Rigatoni,56,198
+Rotini,56,198
+Shells,85,300
+Shirataki Noodles,56,10
+Soy Noodles,56,121
+Spaetzle,56,206
+Spaghetti,56,207
+Spinach Tortellini,102,320
+Spirelli,56,206
+Tagliatelle,56,207
+Tortellini,113,329
+Vermicelli,56,206
+Whole Grain Noodles,56,194
+Whole Grain Spaghetti,56,197
+Ziti,56,197
+BBQ Chicken Pizza,132,309
+BBQ Pizza,140,314
+Beef Pizza,235,714
+Bianca Pizza,187,460
+Buffalo Chicken Pizza,238,600
+Calabrese Pizza,108,254
+Calzone,364,841
+Capricciosa Pizza,74,192
+Cheese Pizza,63,168
+Chicken Pizza,132,309
+Deep Dish Pizza,118,313
+Dominos Philly Cheese Steak Pizza,159,356
+Four Cheese Pizza,113,250
+Goat Cheese Pizza,63,138
+Grilled Pizza,124,280
+Hawaiian Pizza,134,154
+Margherita Pizza,63,173
+Mozzarella Pizza,62,154
+Mushroom Pizza,288,611
+Napoli Pizza,123,248
+New York Style Pizza,103,174
+Pepperoni Pizza,71,181
+Pizza Dough,57,130
+Pizza Hut Stuffed Crust Pizza,149,380
+Pizza Hut Supreme Pizza,123,305
+Pizza Rolls,14,35
+Quattro Formaggi Pizza,133,330
+Red Pepper Pizza,86,165
+Salami Pizza,71,181
+Sausage Pizza,72,177
+Seafood Pizza,76,186
+Shrimp Pizza,91,190
+Sicilian Pizza,133,321
+Spinach Feta Pizza,62,150
+Spinach Pizza,62,145
+Stuffed Crust Pizza,149,380
+Tarte Flambée,56,142
+Thin Crust Pizza,60,157
+Tuna Pizza,125,318
+Vegetable Pizza,156,399
+Vegetarian Pizza,156,399
+Veggie Pizza,114,263
+White Pizza,232,571
+Acerola,4.8,1
+Asian Pear,178,75
+Avocado,200,320
+Banana,125,111
+Breadfruit,96,99
+Cantaloupe Melon,69,23
+Casaba Melon,125,35
+Cherimoya,235,176
+Dragon Fruit,200,120
+Durian,602,885
+Feijoa,42,23
+Galia Melon,130,30
+Grapefruit,123,52
+Guava,55,37
+Honeydew,125,45
+Jackfruit,151,143
+Kiwi,183,112
+Kumquat,19,13
+Lychee,10,7
+Mandarin Oranges,90,48
+Mango,336,202
+Mangosteen,80,58
+Maracuya,18,17
+Maraschino Cherries,5,8
+Muskmelon,69,23
+Noni,28.4,15
+Passion Fruit,18,17
+Pineapple,905,453
+Pink Grapefruit,123,52
+Plantain,179,218
+Pomegranate,282,234
+Pomelo,609,231
+Prickly Pear,19,8
+Rambutan,9,7
+Sapodilla,170,141
+Soursop Fruit,625,413
+Star Fruit,91,28
+Tamarind,2,5
+Watermelon,286,86
+Arby's Grand Turkey Club,233,489
+Arby's Reuben,308,641
+Arby's Roast Beef Classic,154,360
+Arby's Roast Beef Max,154,360
+BBQ Rib,67,142
+Bean Burrito,190,380
+Big N' Tasty,232,517
+Bratwurst,85,283
+Burger King Angry Whopper,290,740
+Burger King Double Whopper,374,894
+Burger King Double Whopper with Cheese,399,994
+Burger King Original Chicken Sandwich,219,659
+Burger King Premium Alaskan Fish Sandwich,228,591
+Burger King Triple Whopper,547,1471
+Burger King Whopper,291,672
+Burger King Whopper Jr.,148,346
+Burger King Whopper with Cheese,315,759
+Cheeseburger,156,410
+Chicken Breast,71,116
+Chicken Fajita,222,326
+Chicken McNuggets,16,48
+Chicken Nuggets,20,59
+Chicken Pizziola,320,451
+Chicken Sandwich,170,410
+Chicken Teriyaki Sandwich,266,367
+Chicken Wings,29,94
+Chop Suey,340,585
+Curly Fries,128,398
+Double Cheeseburger,155,414
+Egg Roll,80,200
+Falafel,17,57
+Filet-o-Fish,142,400
+Fish and Chips,300,585
+Fish Sandwich,158,431
+French Fries,71,222
+Grilled Chicken Salad,305,268
+Ham Sandwich,146,352
+Hamburger,110,279
+Hot Dog,116,312
+Italian BMT,224,410
+Lasagna,130,172
+McDonald's Big Mac,219,561
+McDonald's Cheeseburger,114,300
+McDonald's Chicken Nuggets,16,48
+McDonald's Double Cheeseburger,155,437
+McDonald's Filet-o-Fish,142,391
+McDonald's McChicken,143,359
+McDonald's McDouble,160,403
+McDonald's McMuffi Egg,129,290
+McDonald's McRib,170,451
+McDonald's Mighty Wings,31,95
+McRib,170,451
+Meatball Sandwich,299,481
+Nachos with Cheese,188,575
+Onion Rings,6.5,25
+Poutine,225,511
+Smoked Salmon,28.35,44
+Spicy Italian,219,480
+Subway Club Sandwich,238,312
+Tortilla Wrap,63,171
+Tuna,28.35,24
+Turkey,28.35,29
+Veggie Burger,215,389
+Veggie Delight,166,229
+Veggie Patty,247,963
+Wendy's Baconator,276,839
+Wendy's Jr. Bacon Cheeseburger,161,420
+Wendy's Jr. Cheeseburger,129,290
+Wendy's Son of Baconator,218,700
+Whopper,291,672
+Zinger,202,517
+Zinger Burger,202,517
+Red Velvet Cup-Cake,100,457
+Chicken 65,100,182
+Dubai Pistachio Kunafa Chocolate,100,513
+Gulab Jamun,100,30

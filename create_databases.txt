@@ -1,0 +1,21 @@
+CREATE DATABASE IF NOT EXISTS food_tracker;
+USE food_tracker;
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    gender ENUM('male','female') NOT NULL,
+    height_cm INT NOT NULL,
+    weight_kg INT NOT NULL,
+    age INT NOT NULL,
+    activity_level ENUM('sedentary','light','moderate','very_active','extra_active') NOT NULL
+);
+CREATE TABLE meals (
+    user_id INT,
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    meal_name VARCHAR(50),
+    grams INT,
+    calories INT,
+    date_added DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
+);

@@ -1,0 +1,8 @@
+Python + MySQL Project by Mohamed Hamdan
+
+In Order for this project to work
+- Check whether all of the app files are downloaded (check 'files.txt')
+- Download the requirements next (check 'prerequisites.txt')
+- Go to MySQL, paste the code from 'create_database.txt' into MySQL Command Line Client
+- Go to 'database.py' and Change the password to the Password of your MySQL
+- Once everything is done, run the 'food_tracker.py' file and enjoy :>
