@@ -1,3 +1,4 @@
+![Cover Image](An Old Food Tracker Project,.png)
 
 # 🍕 Food Tracker Project
 
