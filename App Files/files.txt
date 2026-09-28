@@ -1,0 +1,12 @@
+--------txt files---------
+READ_FIRST.txt
+files.txt (file that you are reading right now)
+prerequisites.txt
+create_databases.txt
+theme.txt
+
+-------python files-------
+food_tracker.py
+database.py
+food_advisor.py
+calorie_graphs.py

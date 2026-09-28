@@ -1,0 +1,12 @@
+You need the following softwares for this project:
+- Python
+- MySQL (best follow a youtube tutorial to download if you are new)
+
+You need to download these libraries for this project (copy paste text enclosed in brackets in command prompt):
+- PySimpleGUI --> (python -m pip install PySimpleGUI)
+- MySQL Connector --> (python -m pip install mysql-connector-python)
+- Pandas --> (python -m pip install pandas)
+- NumPy --> (python -m pip install numpy)
+- Matplotlib --> (python -m pip install matplotlib)
+- Tensorflow --> (python -m pip install tensorflow)
+- Fpdf --> (python -m pip install fpdf)
