@@ -1,4 +1,4 @@
-![Cover Image](cover_image.png)
+![Cover Image](cover_img.png)
 
 # 🍕 Food Tracker Project
 
