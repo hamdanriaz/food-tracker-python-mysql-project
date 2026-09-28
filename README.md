@@ -67,3 +67,6 @@ Here is what you can do with Food Tracker:
 
 - **However, people using this program WITHIN the same computer might be able to access your sensitive info through accessing your MySQL Database**
 
+---
+
+<video src="foodTracker.mov" width="80%" controls></video>
