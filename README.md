@@ -71,4 +71,4 @@ Here is what you can do with Food Tracker:
 
 🎬 Project Demo
 
-▶️[! [Watch in YouTube](https://www.youtube.com/watch?v=VnXn6f6_qJk)]
+▶️[Watch in YouTube](https://www.youtube.com/watch?v=VnXn6f6_qJk)
